@@ -1,21 +1,21 @@
-# Capstone 1
-## Predicting Prediabetes and Diabetes with Machine Learning
-### National Health and Nutrition Examination Survey (NHANES) 2007 - 2016
+# Predicting Prediabetes and Diabetes with Machine Learning
+## National Health and Nutrition Examination Survey (NHANES) 2007 - 2016
+### Springboard Data Science Bootcamp - Capstone Project 1
 ### Tracy Cardwell
 
-<img src="https://github.com/tcardwell/Capstone-1/blob/master/images/CDC-DM.jpg" width=300 align=right>
+<img src="https://github.com/tcardwell/Capstone-1/blob/master/images/CDC-DM.jpg" width=400 align=right>
 
 ## Overview
 
-The Centers for Disease Control and Prevention (CDC) estimates that 10.5% of the U.S. population had diabetes as of 2018 and just over 20% of those were undiagnosed. Just over a third of U.S. adults had prediabetes and only 15.3% of them had been told by their doctor.1 That leaves over 8 out of 10 people with prediabetes in the dark!
+The Centers for Disease Control and Prevention (CDC) estimates that 10.5% of the U.S. population had diabetes as of 2018 and just over 20% of those were undiagnosed. Just over a third of U.S. adults had prediabetes and only 15.3% of them had been told by their doctor. That leaves over 8 out of 10 people with prediabetes in the dark!
 
 Machine learning is being increasingly used in health care to aid with diagnosis and treatment of many conditions. The goal of this project is to use machine learning in Python to predict prediabetes and diabetes using the National Health and Nutrition Examination Survey (NHANES). The models created will be evaluated to determine whether additional factors can be identified to improve existing screening tools. 
 
 ### Data Preparation and Analysis
 
-[Data Wrangling](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20data%20wrangling.ipynb)
-[Exploratory Data Analysis](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20EDA.ipynb)
-[Statistical Analysis](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20Statistical%20Data%20Analysis.ipynb)
+[Data Wrangling](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20data%20wrangling.ipynb)  
+[Exploratory Data Analysis](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20EDA.ipynb)  
+[Statistical Analysis](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20Statistical%20Data%20Analysis.ipynb)  
 
 ### Machine Learning
 
@@ -23,6 +23,7 @@ Machine learning is being increasingly used in health care to aid with diagnosis
 
 ### Reporting
 
-[Final Report](https://github.com/tcardwell/Capstone-1/blob/master/reports/Capstone%201%20Final%20Report.pdf)
-[Presentation](https://github.com/tcardwell/Capstone-1/blob/master/Predicting%20Prediabetes%20and%20Diabetes%20with%20Machine%20Learning.pdf)
+[Final Report](https://github.com/tcardwell/Capstone-1/blob/master/reports/Capstone%201%20Final%20Report.pdf)  
+[Presentation](https://github.com/tcardwell/Capstone-1/blob/master/Predicting%20Prediabetes%20and%20Diabetes%20with%20Machine%20Learning.pdf)  
+
 
