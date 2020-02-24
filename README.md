@@ -3,8 +3,10 @@
 ### Springboard Data Science Bootcamp - Capstone Project 1
 ### Tracy Cardwell
 
+<p float="left">
 <img src="https://github.com/tcardwell/Capstone-1/blob/master/images/1in3L.jpg" width=300>
 <img src="https://github.com/tcardwell/Capstone-1/blob/master/images/1in5L.jpg" width=300>
+</p>
 
 ## Overview
 
