@@ -14,6 +14,13 @@ The Centers for Disease Control and Prevention (CDC) estimates that 10.5% of the
 
 Machine learning is being increasingly used in health care to aid with diagnosis and treatment of many conditions. The goal of this project is to use machine learning in Python to predict prediabetes and diabetes using the National Health and Nutrition Examination Survey (NHANES). The models created will be evaluated to determine whether additional factors can be identified to improve existing screening tools. 
 
+Machine learning models were developed to predict prediabetes and diabetes using the National Health and Nutrition Examination Survey (NHANES). The goal was to identify new risk factors to improve screening. 
+
+The developed models predicted prediabetes with 60% precision and diabetes with 80% precision. 
+
+The only novel risk factor identified was osmolality in the prediction of prediabetes. 
+
+
 ### Data Preparation and Analysis
 
 [Data Wrangling](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20data%20wrangling.ipynb)  
