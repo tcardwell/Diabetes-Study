@@ -21,13 +21,13 @@ The only novel risk factor identified was osmolality in the prediction of predia
 
 ### Data Preparation and Analysis
 
-[Data Wrangling](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20data%20wrangling.ipynb)  
-[Exploratory Data Analysis](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20EDA.ipynb)  
-[Statistical Analysis](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20Statistical%20Data%20Analysis.ipynb)  
+[Data Wrangling](https://nbviewer.jupyter.org/github/tcardwell/Diabetes-Study/blob/master/notebooks/Capstone%201%20data%20wrangling.ipynb)  
+[Exploratory Data Analysis](https://nbviewer.jupyter.org/github/tcardwell/Diabetes-Study/blob/master/notebooks/Capstone%201%20EDA.ipynb)  
+[Statistical Analysis](https://nbviewer.jupyter.org/github/tcardwell/Diabetes-Study/blob/master/notebooks/Capstone%201%20Statistical%20Data%20Analysis.ipynb)  
 
 ### Machine Learning
 
-[Predicting Prediabetes and Diabetes with Machine Learning](https://github.com/tcardwell/Capstone-1/blob/master/notebooks/Capstone%201%20ML.ipynb)
+[Predicting Prediabetes and Diabetes with Machine Learning](https://nbviewer.jupyter.org/github/tcardwell/Diabetes-Study/blob/master/notebooks/Capstone%201%20ML.ipynb)
 
 ### Reporting
 
